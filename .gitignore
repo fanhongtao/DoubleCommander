@@ -1,0 +1,6 @@
+*.exe
+*.dll
+*.zdli
+doc/
+language/
+pixmaps/
