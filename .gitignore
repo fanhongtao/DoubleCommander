@@ -4,3 +4,5 @@
 doc/
 language/
 pixmaps/
+*.txt
+multiarc.ini.bak

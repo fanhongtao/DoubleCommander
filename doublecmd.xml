@@ -167,7 +167,7 @@
   <Behaviours>
     <RunInTerminal>cmd.exe /K</RunInTerminal>
     <RunTerminal>cmd.exe</RunTerminal>
-    <OnlyOneAppInstance>False</OnlyOneAppInstance>
+    <OnlyOneAppInstance>True</OnlyOneAppInstance>
     <LynxLike>True</LynxLike>
     <SortCaseSensitive>False</SortCaseSensitive>
     <SortNatural>False</SortNatural>
@@ -183,9 +183,9 @@
     </Mouse>
     <AutoFillColumns>False</AutoFillColumns>
     <AutoSizeColumn>1</AutoSizeColumn>
-    <DateTimeFormat>dd.mm.yy</DateTimeFormat>
+    <DateTimeFormat>yyyy.mm.dd hh:mm</DateTimeFormat>
     <CutTextToColumnWidth>True</CutTextToColumnWidth>
-    <ShowSystemFiles>False</ShowSystemFiles>
+    <ShowSystemFiles>True</ShowSystemFiles>
     <ListFilesInThread>True</ListFilesInThread>
     <LoadIconsSeparately>True</LoadIconsSeparately>
     <DriveBlackList/>
@@ -212,9 +212,9 @@
   </Tools>
   <Fonts>
     <Main>
-      <Name>default</Name>
-      <Size>10</Size>
-      <Style>1</Style>
+      <Name>Tahoma</Name>
+      <Size>8</Size>
+      <Style>0</Style>
     </Main>
     <Editor>
       <Name>Fixedsys</Name>
@@ -300,7 +300,7 @@
     <FileMaskHistory Save="True"/>
   </History>
   <QuickSearch Enabled="True">
-    <Mode>6</Mode>
+    <Mode>0</Mode>
     <MatchBeginning>True</MatchBeginning>
     <MatchEnding>True</MatchEnding>
   </QuickSearch>
