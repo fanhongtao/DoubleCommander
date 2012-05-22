@@ -1,5 +1,5 @@
-<?xml version="1.0"?>
-<doublecmd DCVersion="0.4.6 alpha" ConfigVersion="1">
+<?xml version="1.0" encoding="utf-8"?>
+<doublecmd DCVersion="0.5.4 beta" ConfigVersion="1">
   <Configuration Save="True">
     <UseConfigInProgramDir>True</UseConfigInProgramDir>
   </Configuration>
@@ -18,6 +18,15 @@
         <Attributes/>
       </Filter>
     </FileFilters>
+    <Foreground>536870912</Foreground>
+    <Background>16777215</Background>
+    <Background2>16777215</Background2>
+    <Mark>255</Mark>
+    <Cursor>-2147483635</Cursor>
+    <CursorText>-2147483634</CursorText>
+    <UseInvertedSelection>False</UseInvertedSelection>
+    <InactivePanelBrightness>100</InactivePanelBrightness>
+    <UseFrameCursor>False</UseFrameCursor>
   </Colors>
   <Plugins>
     <DsxPlugins/>
@@ -31,7 +40,7 @@
         <ArchiveExt>lzma</ArchiveExt>
         <Path>%commander_path%\plugins\wcx\lzma\lzma.wcx</Path>
         <Flags>1</Flags>
-      </WcxPlugin>                  
+      </WcxPlugin>
       <WcxPlugin Enabled="True">
         <ArchiveExt>tar</ArchiveExt>
         <Path>%commander_path%\plugins\wcx\zip\zip.wcx</Path>
@@ -56,7 +65,7 @@
         <ArchiveExt>tgz</ArchiveExt>
         <Path>%commander_path%\plugins\wcx\zip\zip.wcx</Path>
         <Flags>95</Flags>
-      </WcxPlugin>      
+      </WcxPlugin>
       <WcxPlugin Enabled="True">
         <ArchiveExt>cpio</ArchiveExt>
         <Path>%commander_path%\plugins\wcx\cpio\cpio.wcx</Path>
@@ -71,7 +80,7 @@
         <ArchiveExt>rpm</ArchiveExt>
         <Path>%commander_path%\plugins\wcx\rpm\rpm.wcx</Path>
         <Flags>4</Flags>
-      </WcxPlugin>      
+      </WcxPlugin>
       <WcxPlugin Enabled="True">
         <ArchiveExt>rar</ArchiveExt>
         <Path>%commander_path%\plugins\wcx\unrar\unrar.wcx</Path>
@@ -98,4 +107,351 @@
     </WfxPlugins>
     <WlxPlugins/>
   </Plugins>
+  <Tabs>
+    <OpenedTabs>
+      <Left>
+        <ActiveTab>0</ActiveTab>
+        <Tab>
+          <FileView Type="columns">
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path>D:\GreenSoft\doublecmd-0.5.4\</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+              <Sorting/>
+            </ColumnsView>
+          </FileView>
+          <Caption>doublecmd-0.5.4</Caption>
+          <Options>0</Options>
+        </Tab>
+      </Left>
+      <Right>
+        <ActiveTab>0</ActiveTab>
+        <Tab>
+          <FileView Type="columns">
+            <History>
+              <Entry Active="True">
+                <FileSource Type="FileSystem"/>
+                <Paths>
+                  <Path>D:\GreenSoft\doublecmd-0.5.4\</Path>
+                </Paths>
+              </Entry>
+            </History>
+            <ColumnsView>
+              <ColumnsSet>Default</ColumnsSet>
+              <Sorting/>
+            </ColumnsView>
+          </FileView>
+          <Caption>doublecmd-0.5.4</Caption>
+          <Options>0</Options>
+        </Tab>
+      </Right>
+    </OpenedTabs>
+    <Options>785</Options>
+    <CharacterLimit>32</CharacterLimit>
+    <Position>0</Position>
+  </Tabs>
+  <MainWindow>
+    <Position>
+      <Maximized>True</Maximized>
+    </Position>
+  </MainWindow>
+  <Language>
+    <POFileName>doublecmd.ch.po</POFileName>
+  </Language>
+  <Behaviours>
+    <RunInTerminal>cmd.exe /K</RunInTerminal>
+    <RunTerminal>cmd.exe</RunTerminal>
+    <OnlyOneAppInstance>False</OnlyOneAppInstance>
+    <LynxLike>True</LynxLike>
+    <SortCaseSensitive>False</SortCaseSensitive>
+    <SortNatural>False</SortNatural>
+    <ShortFileSizeFormat>True</ShortFileSizeFormat>
+    <MinimizeToTray>False</MinimizeToTray>
+    <AlwaysShowTrayIcon>False</AlwaysShowTrayIcon>
+    <Mouse>
+      <Selection Enabled="True">
+        <Button>0</Button>
+      </Selection>
+      <ScrollMode>1</ScrollMode>
+      <WheelScrollLines>3</WheelScrollLines>
+    </Mouse>
+    <AutoFillColumns>False</AutoFillColumns>
+    <AutoSizeColumn>1</AutoSizeColumn>
+    <DateTimeFormat>dd.mm.yy</DateTimeFormat>
+    <CutTextToColumnWidth>True</CutTextToColumnWidth>
+    <ShowSystemFiles>False</ShowSystemFiles>
+    <ListFilesInThread>True</ListFilesInThread>
+    <LoadIconsSeparately>True</LoadIconsSeparately>
+    <DriveBlackList/>
+  </Behaviours>
+  <Tools>
+    <Viewer Enabled="False">
+      <Path/>
+      <Parameters/>
+      <RunInTerminal>False</RunInTerminal>
+      <KeepTerminalOpen>False</KeepTerminalOpen>
+    </Viewer>
+    <Editor Enabled="False">
+      <Path/>
+      <Parameters/>
+      <RunInTerminal>False</RunInTerminal>
+      <KeepTerminalOpen>False</KeepTerminalOpen>
+    </Editor>
+    <Differ Enabled="False">
+      <Path/>
+      <Parameters/>
+      <RunInTerminal>False</RunInTerminal>
+      <KeepTerminalOpen>False</KeepTerminalOpen>
+    </Differ>
+  </Tools>
+  <Fonts>
+    <Main>
+      <Name>default</Name>
+      <Size>10</Size>
+      <Style>1</Style>
+    </Main>
+    <Editor>
+      <Name>Fixedsys</Name>
+      <Size>14</Size>
+      <Style>0</Style>
+    </Editor>
+    <Viewer>
+      <Name>Fixedsys</Name>
+      <Size>14</Size>
+      <Style>0</Style>
+    </Viewer>
+    <Log>
+      <Name>Fixedsys</Name>
+      <Size>12</Size>
+      <Style>0</Style>
+    </Log>
+    <ViewerBook>
+      <Name>default</Name>
+      <Size>16</Size>
+      <Style>1</Style>
+    </ViewerBook>
+  </Fonts>
+  <ToolTips>
+    <ShowToolTipMode>1</ShowToolTipMode>
+    <CustomFields/>
+  </ToolTips>
+  <Layout>
+    <MainMenu>True</MainMenu>
+    <ButtonBar Enabled="True">
+      <FlatIcons>True</FlatIcons>
+      <ButtonHeight>24</ButtonHeight>
+      <SmallIconSize>16</SmallIconSize>
+      <SmallIcons>False</SmallIcons>
+    </ButtonBar>
+    <DriveBar1>True</DriveBar1>
+    <DriveBar2>True</DriveBar2>
+    <DriveBarFlat>True</DriveBarFlat>
+    <DriveMenuButton>True</DriveMenuButton>
+    <DirectoryTabs>True</DirectoryTabs>
+    <CurrentDirectory>True</CurrentDirectory>
+    <TabHeader>True</TabHeader>
+    <StatusBar>True</StatusBar>
+    <CmdLine>True</CmdLine>
+    <LogWindow>False</LogWindow>
+    <TermWindow>False</TermWindow>
+    <KeyButtons>True</KeyButtons>
+    <InterfaceFlat>True</InterfaceFlat>
+    <DriveFreeSpace>True</DriveFreeSpace>
+    <DriveIndicator>False</DriveIndicator>
+    <ProgressInMenuBar>False</ProgressInMenuBar>
+    <PanelOfOperationsInBackground>True</PanelOfOperationsInBackground>
+    <HorizontalFilePanels>False</HorizontalFilePanels>
+  </Layout>
+  <FileOperations>
+    <BufferSize>524288</BufferSize>
+    <UseMmapInSearch>False</UseMmapInSearch>
+    <PartialNameSearch>True</PartialNameSearch>
+    <WipePassNumber>1</WipePassNumber>
+    <DropReadOnlyFlag>True</DropReadOnlyFlag>
+    <ProcessComments>True</ProcessComments>
+    <RenameSelOnlyName>False</RenameSelOnlyName>
+    <ShowCopyTabSelectPanel>False</ShowCopyTabSelectPanel>
+    <UseTrash>True</UseTrash>
+    <SkipFileOpError>False</SkipFileOpError>
+    <ShowDialogOnDragDrop>False</ShowDialogOnDragDrop>
+    <OverwriteFolder>False</OverwriteFolder>
+    <Options>
+      <Symlink>0</Symlink>
+      <CorrectLinks>False</CorrectLinks>
+      <FileExists>0</FileExists>
+      <DirectoryExists>0</DirectoryExists>
+      <CheckFreeSpace>True</CheckFreeSpace>
+    </Options>
+  </FileOperations>
+  <Log Enabled="False">
+    <FileName>D:\GreenSoft\doublecmd-0.5.4\doublecmd.log</FileName>
+    <Options>255</Options>
+  </Log>
+  <History>
+    <SearchReplaceHistory Save="True"/>
+    <DirHistory Save="True"/>
+    <CmdLineHistory Save="True"/>
+    <FileMaskHistory Save="True"/>
+  </History>
+  <QuickSearch Enabled="True">
+    <Mode>6</Mode>
+    <MatchBeginning>True</MatchBeginning>
+    <MatchEnding>True</MatchEnding>
+  </QuickSearch>
+  <QuickFilter Enabled="False">
+    <Mode>0</Mode>
+  </QuickFilter>
+  <Miscellaneous>
+    <GridVertLine>False</GridVertLine>
+    <GridHorzLine>False</GridHorzLine>
+    <ShowWarningMessages>True</ShowWarningMessages>
+    <SpaceMovesDown>False</SpaceMovesDown>
+    <DirBrackets>True</DirBrackets>
+  </Miscellaneous>
+  <AutoRefresh>
+    <Options>3</Options>
+    <ExcludeDirs/>
+    <Mode>0</Mode>
+  </AutoRefresh>
+  <Icons>
+    <ShowMode>3</ShowMode>
+    <ShowOverlays>False</ShowOverlays>
+    <Size>16</Size>
+    <CustomDriveIcons>False</CustomDriveIcons>
+  </Icons>
+  <IgnoreList Enabled="False">
+    <IgnoreListFile>D:\GreenSoft\doublecmd-0.5.4\ignorelist.txt</IgnoreListFile>
+  </IgnoreList>
+  <DirectoryHotList/>
+  <Viewer>
+    <PreviewVisible>False</PreviewVisible>
+    <SaveThumbnails>True</SaveThumbnails>
+    <ImageStretch>False</ImageStretch>
+    <CopyMovePath1/>
+    <CopyMovePath2/>
+    <CopyMovePath3/>
+    <CopyMovePath4/>
+    <CopyMovePath5/>
+    <PaintMode>Pen</PaintMode>
+    <PaintWidth>5</PaintWidth>
+    <NumberOfColumns>1</NumberOfColumns>
+    <ViewerMode>0</ViewerMode>
+    <PaintColor>255</PaintColor>
+    <BackgroundColor>0</BackgroundColor>
+    <FontColor>16777215</FontColor>
+    <TextPosition>0</TextPosition>
+  </Viewer>
+  <Lua>
+    <PathToLibrary>lua5.1.dll</PathToLibrary>
+  </Lua>
+  <NameShortcutFile>shortcuts.scf</NameShortcutFile>
+  <LastUsedPacker>zip</LastUsedPacker>
+  <SearchTemplates/>
+  <ColumnsSets>
+    <ColumnsSet>
+      <Name>Default</Name>
+      <CustomView>False</CustomView>
+      <CursorBorder Enabled="False">
+        <Color>0</Color>
+      </CursorBorder>
+      <Columns>
+        <Column>
+          <Title>Name</Title>
+          <FuncString>[DC().GETFILENAMENOEXT{}]</FuncString>
+          <Width>250</Width>
+          <Align>0</Align>
+          <Font>
+            <Name>default</Name>
+            <Size>10</Size>
+            <Style>1</Style>
+          </Font>
+          <Overcolor>True</Overcolor>
+          <TextColor>536870912</TextColor>
+          <Background>16777215</Background>
+          <Background2>16777215</Background2>
+          <MarkColor>255</MarkColor>
+          <CursorColor>-2147483635</CursorColor>
+          <CursorText>-2147483634</CursorText>
+        </Column>
+        <Column>
+          <Title>Ext</Title>
+          <FuncString>[DC().GETFILEEXT{}]</FuncString>
+          <Width>50</Width>
+          <Align>0</Align>
+          <Font>
+            <Name>default</Name>
+            <Size>10</Size>
+            <Style>1</Style>
+          </Font>
+          <Overcolor>True</Overcolor>
+          <TextColor>536870912</TextColor>
+          <Background>16777215</Background>
+          <Background2>16777215</Background2>
+          <MarkColor>255</MarkColor>
+          <CursorColor>-2147483635</CursorColor>
+          <CursorText>-2147483634</CursorText>
+        </Column>
+        <Column>
+          <Title>Size</Title>
+          <FuncString>[DC().GETFILESIZE{}]</FuncString>
+          <Width>70</Width>
+          <Align>1</Align>
+          <Font>
+            <Name>default</Name>
+            <Size>10</Size>
+            <Style>1</Style>
+          </Font>
+          <Overcolor>True</Overcolor>
+          <TextColor>536870912</TextColor>
+          <Background>16777215</Background>
+          <Background2>16777215</Background2>
+          <MarkColor>255</MarkColor>
+          <CursorColor>-2147483635</CursorColor>
+          <CursorText>-2147483634</CursorText>
+        </Column>
+        <Column>
+          <Title>Date</Title>
+          <FuncString>[DC().GETFILETIME{}]</FuncString>
+          <Width>70</Width>
+          <Align>1</Align>
+          <Font>
+            <Name>default</Name>
+            <Size>10</Size>
+            <Style>1</Style>
+          </Font>
+          <Overcolor>True</Overcolor>
+          <TextColor>536870912</TextColor>
+          <Background>16777215</Background>
+          <Background2>16777215</Background2>
+          <MarkColor>255</MarkColor>
+          <CursorColor>-2147483635</CursorColor>
+          <CursorText>-2147483634</CursorText>
+        </Column>
+        <Column>
+          <Title>Attr</Title>
+          <FuncString>[DC().GETFILEATTR{}]</FuncString>
+          <Width>175</Width>
+          <Align>0</Align>
+          <Font>
+            <Name>default</Name>
+            <Size>10</Size>
+            <Style>1</Style>
+          </Font>
+          <Overcolor>True</Overcolor>
+          <TextColor>536870912</TextColor>
+          <Background>16777215</Background>
+          <Background2>16777215</Background2>
+          <MarkColor>255</MarkColor>
+          <CursorColor>-2147483635</CursorColor>
+          <CursorText>-2147483634</CursorText>
+        </Column>
+      </Columns>
+    </ColumnsSet>
+  </ColumnsSets>
 </doublecmd>
