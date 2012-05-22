@@ -1,0 +1,63 @@
+; Author: Peter H. S. Madsen (petermad) <7zip@madsenworld.dk>
+; Version 0.7.6.5
+
+[lang]
+codepage=1252
+
+0=7Zip plugins
+
+900=Gem
+901=Hurtigst
+903=Hurtig
+905=Normal
+907=Maksimum
+909=Ultra
+
+100=Ikke-progressiv (ikke-solid)
+101=Progressiv (solid)
+102=Ingen fundet
+103=Filen bruges af et andet program.
+104=Den pakkede fil kan indeholde en digital signatur!\nOpdatering vil ødelægge signaturinformationen.\nØnsker du stadig at opdatere denne pakkede fil?
+
+1000=7Zip Indstillinger
+2000=7Zip Adgangskode
+
+1001=OK
+1002=Annuller
+1108=Fortsæt med at bruge denne adgangskode
+1109=Krypter filheader og filnavne
+1110=Vis adgangskode som almindelig tekst
+1111=Generer progressive (solide) arkiver (én stream for alle filer)
+1112=" Komprimering "
+1113=Komprimeringsniveau:
+1114=Komprimeringsmetode:
+1115=Ordbogsstørrelse:
+115=Gennemløb:
+1116=Ordstørrelse:
+1117=" Adgangskode "
+1118=Adgangskode:
+1123=Antal CPU threads
+1124=Hukommelsesforbrug for komprimering:
+1125=Hukommelsesforbrug for dekomprimering:
+1126=Blokstørrelse:
+1127=" Filattributter der skal gemmes under pakning "
+
+1128=" Filtider "
+1129=Oprettet
+1130=Åbnet
+1131=Ændret
+
+1132=" Filattributter "
+1133=Skrivebeskyttet
+1134=Skjult
+1135=System
+1136=Arkiv
+
+2001=OK
+2002=Annuller
+2101=Arkivet er beskyttet med adgangskode
+2102=Indtast venligst adgangskoden for dette arkiv
+2118=Adgangskode:
+
+2026=Sæt 7z dato og tid som nyeste fil
+2027=Gensortér mappeliste

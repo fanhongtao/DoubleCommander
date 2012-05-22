@@ -1,0 +1,37 @@
+; Joan Montané <jmontane@gmail.com>
+
+[lang]
+codepage=1252
+
+900=Emmagatzematge
+901=La més ràpida
+903=Ràpida
+905=Normal
+907=Màxima
+909=Ultra
+
+1000=Configuració del 7Zip
+2000=Contrasenya del 7Zip
+
+1001=D'acord
+1002=Cancel·la
+1108=Usa sempre aquesta contrasenya
+1109=Xifra la capçalera i els noms de fitxers
+1110=Mostra la contrasenya en text pla
+1111=Crea arxius sòlids (un flux de dades per a tots els fitxers)
+1112=Compressió
+1113=Nivell de compressió:
+1114=Mètode de compressió:
+1115=Mida del diccionari:
+1116=Mida de paraula:
+1117=Contrasenya
+1118=Contrasenya:
+1123=Nombre de fils de la CPU:
+1124=Ús de memòria per comprimir:
+1125=Ús de memòria per descomprimir:
+
+2001=D'acord
+2002=Cancel·la
+2101=L'arxiu 7Zip és protegit amb contrasenya
+2102=Introduiu una contrasenya per accedir a l'arxiu
+2118=Contrasenya:

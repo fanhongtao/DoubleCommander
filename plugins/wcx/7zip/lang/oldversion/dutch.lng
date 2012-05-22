@@ -1,0 +1,37 @@
+; Author: LoveByte
+
+[lang]
+codepage=1252
+
+900=Opslaan
+901=Snelste
+903=Snel
+905=Normaal
+907=Maximaal
+909=Ultra
+
+1000=7Zip Configuratie
+2000=7Zip Wachtwoord
+
+1001=OK
+1002=Annuleren
+1108=Gebruik dit wachtwoord meer dan een keer
+1109=Versleutel bestandsstroom en bestandsnamen
+1110=Toon het wachtwoord in platte tekst
+1111=Compact archief maken (een stroom voor alle bestanden)
+1112=Compressie
+1113=Compressie niveau:
+1114=Compressie methode:
+1115=Woordenboek grootte:
+1116=Woord grootte:
+1117=Inpakken met wachtwoord
+1118=Wachtwoord:
+1123=Anzahl &CPU-Threads:
+1124=Speicherbedarf beim Komprimieren:
+1125=Speicherbedarf beim Entpacken:
+
+2001=OK
+2002=Annuleren
+2101=7Zip archief is versleuteld
+2102=Voer a.u.b. het wachtwoord in
+2118=Wachtwoord:

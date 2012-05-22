@@ -1,0 +1,37 @@
+; Auteurs: Franck et Ouistiti <ouistiti@gmail.com>
+
+[lang]
+codepage=1252
+
+900=Aucune
+901=Le plus rapide
+903=Rapide
+905=Normal
+907=Maximum
+909=Ultra
+
+1000=Configuration de 7Zip
+2000=Mot de passe 7Zip
+
+1001=Confirmer
+1002=Annuler
+1108=Mémoriser ce mot de passe
+1109=Chiffrer en-t?tes et noms de fichiers
+1110=Montrer le mot de passe
+1111=Créer une archive solide  (flux unique)
+1112=Compression
+1113=Niveau:
+1114=Méthode:
+1115=Taille du Dictionnaire:
+1116=Taille d'un "Mot":
+1117=Mot de passe
+1118=Utiliser:
+1123=Nombre de threads CPU:
+1124=Memoire pour la compression :
+1125=Memoire pour la decompression :
+
+2001=Confirmer
+2002=Annuler
+2101=L'archive 7Zip est protégée par un mot de passe
+2102=Entrer le mot de passe de l'archive
+2118=Mot de passe:

@@ -1,0 +1,65 @@
+; Author: Put your name here <and e-mail>
+; Version 0.7.6.5
+
+[lang]
+codepage=1252
+
+0=7Zip plugins
+
+900=Store
+901=Fastest
+903=Fast
+905=Normal
+907=Maximum
+909=Ultra
+
+101=solid
+100=Non-solid
+
+102=None found
+
+103=The file is using by another application.
+104=The packed file may contain digital signature!\nUpdate it will destroy signature information.\nDo you still want to update this packed file?
+
+1000=7Zip Configuration
+2000=7Zip Password
+
+1001=OK
+1002=Cancel
+1108=Keep using this password more than once
+1109=Encrypt file header and file names
+1110=Show password in plain text
+1111=Create solid archives (one stream for all files)
+1112=Compression
+1113=Compression level:
+1114=Compression method:
+115=kNumPasses:
+1115=Dictionary size:
+1116=Word size:
+1117=Password
+1118=Use password:
+1123=Number of CPU threads
+1124=Memory usage for Compressing:
+1125=Memory usage for Decompressing:
+1126=Solid Block size:
+
+1127=File attributes to store when packing
+1128=File times
+1129=Create
+1130=Access
+1131=Modify
+
+1132=File attributes
+1133=Read only
+1134=Hidden
+1135=System
+1136=Archive
+
+2001=OK
+2002=Cancel
+2101=7Zip archive is password protected
+2102=Please enter password for archive
+2118=Password:
+
+2026=set 7z datetime to newest file
+2027=reorder directory list

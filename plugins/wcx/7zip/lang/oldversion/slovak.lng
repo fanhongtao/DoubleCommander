@@ -1,0 +1,37 @@
+; Author: Pavel Deveèka <devos(at)t-zones(dot)sk> / Premenujte tento súbor na "7zip.lng" a skopírujte ho do inštalaèného adresára súboru "7zip.wcx".
+
+[lang]
+codepage=1250
+
+900=Bez kompresie
+901=Najrıchlejšia
+903=Rıchla
+905=Normálna
+907=Maximálna
+909=Ultra
+
+1000=7Zip Nastavenia
+2000=7Zip Heslo
+
+1001=OK
+1002=Zruši
+1108=Uloi toto heslo pre ïa¾šie pouitie
+1109=Zašifrova hlavièku archívu a mená súborov
+1110=Ukáza heslo
+1111=Vytvori jednoliaty archív (jeden prúd pre všetky súbory)
+1112=Kompresia
+1113=Úroveò kompresie:
+1114=Kompresná metóda:
+1115=Ve¾kos slovníka:
+1116=Ve¾kos slova:
+1117=Heslo
+1118=Poui heslo:
+1123=Poce&t CPU vlakien:
+1124=Pamat potrebna na kompresiu:
+1125=Pamat potrebna na dekompresiu:
+
+2001=OK
+2002=Zruši
+2101=Tento 7Zip archív je chránenı heslom.
+2102=Prosím zadajte heslo.
+2118=Heslo:

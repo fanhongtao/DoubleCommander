@@ -1,0 +1,65 @@
+; Author: Bluestar <dev.bluestar@hotmail.com>
+; Version 0.7.6.5
+
+[lang]
+codepage=852
+
+0=7Zip beépülõ
+
+900=Tárolás
+901=Leggyorsabb
+903=Gyors
+905=Normál
+907=Maximális
+909=Ultra
+
+101=szolid
+100=nem szolid
+
+102=Nem található
+
+103=A fájl egy másik alkalmazás által használatban van.
+104=A csomagolt fájl digitális aláírást is tartalmazhat!\nA frissítése tönkreteszi az aláírás információit.\nTovábbra is frissíteni szeretnéd ezt a csomagolt fájlt?
+
+1000=7Zip Konfiguráció
+2000=7Zip Jelszó
+
+1001=OK
+1002=Mégsem
+1108=Használja ezt a jelszót többször is
+1109=A fájl header és a fájlnevek titkosítása
+1110=Jelszó mutatása egyszerû szövegként
+1111=Szolid archívumok létrehozása (egy adatfolyam az összes fájl számára)
+1112=Tömörítés
+1113=Tömörítés szintje:
+1114=Tömörítési eljárás:
+115=kNumPasses:
+1115=Szótár méret:
+1116=Szó méret:
+1117=Jelszó
+1118=Archívum jelszó:
+1123=CPU szálak száma
+1124=Memóriahasználat tömörítéshez:
+1125=Memóriahasználat kicsomagoláshoz:
+1126=Szolid blokk méret:
+
+1127=Csomagoláskor tárolandó fájl attribútumok
+1128=Fájl dátumok
+1129=Létrehozás
+1130=Hozzáférés
+1131=Módosítás
+
+1132=Fájl attribútumok
+1133=Csak olvasható
+1134=Rejtett
+1135=Rendszer
+1136=Archívum
+
+2001=OK
+2002=Mégsem
+2101=A 7Zip archívum jelszóvédett
+2102=Kérlek, írd be az archívum jelszavát
+2118=Jelszó:
+
+2026=a 7z dátuma legyen a legújabb fájléval egyezõ
+2027=a mappalista újrarendezése

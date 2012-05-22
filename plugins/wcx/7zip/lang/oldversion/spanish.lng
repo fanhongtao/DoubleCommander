@@ -1,0 +1,37 @@
+; Author: Vico//Koby <vicokoby@gmail.com>
+
+[lang]
+codepage=1252
+
+900=Almacenar
+901=Más rápida
+903=Rápida
+905=Normal
+907=Máxima
+909=Ultra
+
+1000=Configuración de 7Zip
+2000=Contraseña de 7Zip
+
+1001=Aceptar
+1002=Cancelar
+1108=Usar esta contraseña más de una vez
+1109=Encriptar cabeceras y nombres de archivos
+1110=Mostrar contraseña en texto plano
+1111=Crear archivos sólidos (un flujo para todos los archivos)
+1112=Compresión
+1113=Nivel de compresión:
+1114=Método de compresión:
+1115=Tamaño del diccionario:
+1116=Tamaño de palabra:
+1117=Contraseña
+1118=Contraseña:
+1123=Usar múltiples hilos
+1124=Memoria usada para Comprimir:
+1125=Memoria usada para Descomprimir:
+
+2001=Aceptar
+2002=Cancelar
+2101=El archivo de 7Zip está protegido con contraseña
+2102=Por favor introduzca una contraseña para el archivo
+2118=Contraseña:

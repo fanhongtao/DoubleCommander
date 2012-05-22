@@ -1,0 +1,61 @@
+; Author: Dalius Guþauskas(Tichij) <tichij@iname.com>
+; Version 0.7.6.5
+
+[lang]
+codepage=1257
+
+900=Be glaudinimo
+901=Greitesnis
+903=Greitas
+905=Normalus
+907=Didþiausias
+909=Ypaè didelis
+
+100=Ne vientisas
+101=Vientisas
+102=Nieko nerasta
+103=Bylà naudoja kita programa.
+104=Archyvas gali bûti pasiraðytas skaitmeniniu paraðu!\nArchyvo turinio keitimas sunaikins paraðo informacijà.\nAr Jûs tikrai norite keisti archyvo turiná?
+
+1000=7-Zip parinktys
+2000=7-Zip slaptaþodis
+
+1001=Gerai
+1002=Atsisakyti
+1108=Naudoti ðá slaptaþodá ir vëliau
+1109=Uþðifruoti bylø pavadinimus
+1110=Rodyti slaptaþodá
+1111=Kurti vientisus (solid) archyvus
+1112=Suglaudinimas
+1113=Suglaudinimo lygis:
+1114=Glaudinimo bûdas:
+115=Kartojimø skaièius:
+1115=Þodyno dydis:
+1116=Þodþio dydis:
+1117=Ðifravimas
+1118=Slaptaþodis:
+1123=CPU gijø skaièius
+1124=Atmintinës naudojimas suglaudinimui:
+1125=Atmintinës naudojimas iðskleidimui:
+1126=Bloko dydis:
+
+1127=Glaudinant iðsaugomi bylos rekvizitai
+1128=Laikas
+1129=Sukurta
+1130=Naudota
+1131=Pakeista
+
+1132=Poþymiai
+1133=Tik skaitymui
+1134=Slepiama
+1135=Sisteminë
+1136=Archyvinë
+
+2001=Gerai
+2002=Atsisakyti
+2101=7-Zip archyvas apsaugotas slaptaþodþiu
+2102=Nurodykite slaptaþodá archyvo iðskleidimui
+2118=Slaptaþodis:
+
+2026=7z data laikyti naujausios bylos datà
+2027=Keisti katalogø sàraðo tvarkà

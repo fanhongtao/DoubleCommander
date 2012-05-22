@@ -1,0 +1,27 @@
+[plugininstall]
+description=7-Zip archive support x32+x64
+descriptiondeu=7zip Packer-Erweiterung x32+x64
+descriptionpol=Obs³uga archiwów 7-Zip x32+x64
+descriptioncsy=Podpora 7-Zip archiv?
+descriptionrom=Folosire pachete 7-Zip x32+x64
+descriptionsk=Podpora 7-Zip archívov x32+x64
+descriptiondut=7-Zip archief ondersteuning x32+x64
+descriptiongrk=ÕğïóôŞñéîç óõìğéåóìİíùí áñ÷åßù?7-zip x32+x64
+descriptionda=7-Zip arkiverings understøttelse x32+x64
+descriptionhun=7-Zip állomány támogatása x32+x64
+descriptionswe=7-Zip arkiveringsstöd x32+x64
+descriptionkor=7-Zip ¾ĞÃà Áö¿ø x32+x64
+descriptioncat=Connector de compressi?7-Zip x32+x64
+descriptiondan=7-Zip arkiveringsunderstøttelse x32+x64
+descriptionslo=Podpira 7-Zip arhiv x32+x64
+descriptionesp=Soporte para archivos de 7-Zip x32+x64
+descriptiondan=7-Zip arkiveringsunderstøttelse x32+x64
+descriptionrus=Ïëàãèí äëÿ ğàáîòû ñ 7-Zip àğõèâàìè x32+x64
+descriptioncht=¤ä´© 7-Zip À£ÁY®æ¦¡ x32+x64
+descriptionltu=Áskiepis darbui su 7-Zip archyvais x32+x64
+descriptionukr=Ïëàã³í äëÿ ï³äòğèìêè àğõ³â³â 7-Zip x32+x64
+
+type=wcx
+file=7zip.wcx
+defaultdir=plugins\wcx\7zip
+defaultextension=7z

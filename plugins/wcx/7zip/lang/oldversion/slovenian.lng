@@ -1,0 +1,37 @@
+; Author: KharTahk <khartahk@hotmail.com>
+
+[lang]
+codepage=1250
+
+900=Shrani
+901=Najhitreje
+903=Hitro
+905=Obièajno
+907=Najveè
+909=Ultra
+
+1000=7Zip Nastavitve
+2000=7Zip Geslo
+
+1001=Vredu
+1002=Preklièi
+1108=Uporabi to geslo veèkrat
+1109=Zakriptiraj glavo datoteke in imena datotek
+1110=Poka?i geslo kot obièajen tekst
+1111=Ustvari trden arhiv (en tok za vse datoteke)
+1112=Stistaknje
+1113=Stopnja stiskanja:
+1114=Metoda stiskanja:
+1115=Velikost slovarja:
+1116=Velikost besede:
+1117=Geslo
+1118=Uporabi geslo:
+1123=Å tevilo niti CPE:
+1124=Poraba pomnilnika za stiskanje:
+1125=Poraba pomnilnika za razsirjanje:
+
+2001=Vredu
+2002=Preklièi
+2101=7Zip arhiv je zaèiten z geslom
+2102=Vnesi geslo za arhiv
+2118=Geslo:

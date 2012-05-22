@@ -1,0 +1,37 @@
+; Author: Dan Lungescu <dan@lungescu.ro>
+
+[lang]
+codepage=1250
+
+900=Doar stocare
+901=Minimalã
+903=Scãzutã
+905=Normalã
+907=Maximalã
+909=Ultra
+
+1000=Configuraþie 7Zip
+2000=Parolã 7Zip
+
+1001=OK
+1002=Abandon
+1108=Folosire parolã de mai multe ori
+1109=Încriptare antete ºi nume fiºiere
+1110=Expunere text parolã
+1111=Creare pachete solide (secvenþã unicã pentru toate fiºierele)
+1112=Comprimare
+1113=Ratã comprimare:
+1114=Metodã comprimare:
+1115=Mãrime dicþionar:
+1116=Lungime cuvânt:
+1117=Parolã
+1118=Folosire parolã:
+1123=Numarul de procesoare utilizate:
+1124=Memorie utilizata pentru arhivare:
+1125=Memorie utilizata pentru dezarhivare:
+
+2001=OK
+2002=Abandon
+2101=Pachetul 7Zip e parolat
+2102=Scrie parola pachetului
+2118=Parola:

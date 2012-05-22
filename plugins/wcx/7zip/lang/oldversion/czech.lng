@@ -1,0 +1,37 @@
+; Autor: tap
+
+[lang]
+codepage=1250
+
+900=Bez komprese
+901=Nejrychlejší
+903=Rychlá
+905=Normální
+907=Maximální
+909=Ultra
+
+1000=Konfigurace 7zip
+2000=Heslo 7zip
+
+1001=OK
+1002=Zrušit
+1108=Uložit toto heslo pro další použití
+1109=Zakódovat hlavičku i jméno souboru
+1110=Ukázat heslo v prostém textu
+1111=Vytvořit solid archiv (jeden stream pro všechny soubory)
+1112=Komprese
+1113=Úroveň komprese:
+1114=Metoda komprese:
+1115=Velikost slovníku:
+1116=Délka slova:
+1117=Heslo
+1118=Použít heslo:
+1123=Počet vláken CPU:
+1124=Spotřeba paměti pro zabalení:
+1125=Spotřeba paměti pro rozbalení:
+
+2001=OK
+2002=Zrušit
+2101=7Zip archiv je chráněn heslem
+2102=Prosím zadejte heslo pro tento archiv
+2118=Heslo:

@@ -86,6 +86,11 @@
         <Path>%commander_path%\plugins\wcx\unrar\unrar.wcx</Path>
         <Flags>68</Flags>
       </WcxPlugin>
+      <WcxPlugin Enabled="True">
+        <ArchiveExt>7z</ArchiveExt>
+        <Path>%commander_path%\plugins\wcx\7zip\7zip.wcx</Path>
+        <Flags>223</Flags>
+      </WcxPlugin>
     </WcxPlugins>
     <WdxPlugins>
       <WdxPlugin>

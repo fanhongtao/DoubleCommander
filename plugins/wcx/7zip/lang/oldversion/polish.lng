@@ -1,0 +1,37 @@
+; Autor: Adam Strzelecki <ono@java.pl>
+
+[lang]
+codepage=1250
+
+900=Bez kompresji
+901=Najszybsza
+903=Szybka
+905=Normalna
+907=Najlepsza
+909=Ultra
+
+1000=Konfiguracja 7zip
+2000=Has³o 7zip
+
+1001=OK
+1002=Anuluj
+1108=U¿yj tego has³a dla kolejnych archiwów
+1109=Szyfruj tak¿e nag³ówek archiwum
+1110=Poka¿ has³o jawnie czystym tekstem
+1111=Twórz ci¹g³e archiwa (pojedynczy strumieñ plików)
+1112=Kompresja
+1113=Poziom kompresji:
+1114=Metoda kompresji:
+1115=Rozmiar s³ownika:
+1116=Rozmiar s³owa:
+1117=Has³o
+1118=U¿yj has³a:
+1123=Liczba watkow:
+1124=Uzycie pamieci dla kompresji:
+1125=Uzycie pamieci dla dekompresji:
+
+2001=OK
+2002=Anuluj
+2101=Archiwum 7zip jest chronione has³em
+2102=Proszê podaj has³o dla tego archiwum
+2118=Has³o:

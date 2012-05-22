@@ -1,0 +1,65 @@
+; Author: Vacon <vacons.id@gmail.com>
+; Version 0.7.6.5
+
+[lang]
+codepage=1252
+
+0=7Zip plugins
+
+900=Speichern
+901=Schnellste
+903=Schnell
+905=Normal
+907=Maximum
+909=Ultra
+
+101=Solide
+100=Nicht-Solide
+
+102=Nicht gefunden
+
+103=Die Datei wird von einer anderen Anwendung verwendet.
+104=Das Archiv enthält möglicherweise digitale Signaturen!\nEine Veränderung des Inhalts wird diese Signaturen zerstören.\nSoll dieses Archiv trotzdem verändert werden?
+
+1000=7-Zip Konfiguration
+2000=7-Zip Passwort
+
+1001=OK
+1002=Abbruch
+1108=Passwort zur weiteren Verwendung merken
+1109=Verschlüssele Datei-Header und Dateinamen
+1110=Passwort in Klar-Text anzeigen
+1111=Erstelle solide Archive (kontinuierlicher Datenstrom für alle Dateien)
+1112=Kompression
+1113=Kompressions-Level:
+1114=Kompression-Methode:
+115=Durchläufe:
+1115=Wörterbuchgrösse:
+1116=Wortlänge:
+1117=Passwort
+1118=Passwort:
+1123=Anzahl der CPU-Threads
+1124=Speicherverwendung zum Packen:
+1125=Speicherverwendung zum Entpacken:
+1126=Solid-Block Grösse:
+
+1127=Datei-Attribute, die erhalten werden sollen beim Packen
+1128=Datei Zeitstempel
+1129=Erstellt
+1130=Zugriff
+1131=Geändert
+
+1132=Dateiattribute
+1133=Schreibgeschützt
+1134=Versteckt
+1135=System
+1136=Archiv
+
+2001=OK
+2002=Abbruch
+2101=7-Zip Archiv ist Passwort-geschützt
+2102=Bitte Passwort für das Archiv eingeben
+2118=Passwort:
+
+2026=7z-Zeitstempel = Datum der neuesten Datei
+2027=Verzeichnisliste neu sortieren

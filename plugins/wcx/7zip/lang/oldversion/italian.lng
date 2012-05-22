@@ -1,0 +1,54 @@
+; Author : TJL73 <tjl73@x-privat.org>
+; Version: 7zip plugin v0.7.1.0 (2009-11-23)
+
+[lang]
+codepage=1252
+
+900=Nessuna
+901=Velocissima
+903=Veloce
+905=Normale
+907=Massima
+909=Ultra
+
+100=solido
+101=non solido
+
+1000=Configurazione 7Zip
+2000=Password 7Zip
+
+1001=OK
+1002=Annulla
+1108=Memorizza la password e utilizzala più volte
+1109=Cifra le intestazioni e i nomi dei file
+1110=Mostra la password in chiaro
+1111=Crea archivio solido (un unico archivio con tutti i file)
+1112=Compressione
+1113=Livello compressione:
+1114=Metodo compressione:
+1115=Dimensione dizionario:
+1116=Dimensione parola:
+1117=Password
+1118=Password:
+1123=Numero di thread della CPU:
+1124=Quantità di memoria per la compressione:
+1125=Quantità di memoria per la decompressione:
+1126=Dimensione blocco:
+1127=Attributi da impostare negli archivi
+
+1128=Data/Ora archivio
+1129=Creazione
+1130=Accesso
+1131=Modifica
+
+1132=Attributi archivio
+1133=Sola lettura
+1134=Nascosto
+1135=Sistema
+1136=Archivio
+
+2001=OK
+2002=Annulla
+2101=L'archivio 7Zip è protetto da password
+2102=Inserire la password
+2118=Password:

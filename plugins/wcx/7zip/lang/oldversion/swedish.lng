@@ -1,0 +1,37 @@
+; Author: CEoCEo <ceoceo@comhem.se>
+
+[lang]
+codepage=1252
+
+900=Lagra
+901=Snabbast
+903=Snabb
+905=Normal
+907=Maximal
+909=Ultra
+
+1000=7Zip Konfiguration
+2000=7Zip Lösenord
+
+1001=OK
+1002=Avbryt
+1108=Använd detta lösenord mer än en gång
+1109=Kryptera filnamn
+1110=Visa lösenord
+1111=Skapa ett sammanhängande (eng. solid) arkiv
+1112=Komprimering
+1113=Komprimeringsnivå:
+1114=Komprimeringsmetod:
+1115=Storlek på ordlista:
+1116=Storlek på ord:
+1117=Lösenord
+1118=Lösenord:
+1123=Antal tradar:
+1124=Minne behovt vid komprimering:
+1125=Minne behovt vid dekomprimering:
+
+2001=OK
+2002=Avbryt
+2101=7Zip arkivet är lösenordsskyddat
+2102=Sriv in lösenordet på den krypterade filen
+2118=Lösenord:

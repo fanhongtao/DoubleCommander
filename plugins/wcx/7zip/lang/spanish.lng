@@ -1,0 +1,65 @@
+; Author: Victor Emmanuel <vicokoby@gmail.com>
+; Version 0.7.6.5
+
+[lang]
+codepage=1252
+
+0=7Zip plugins
+
+900=Sólo almacenar
+901=Más rápida
+903=Rápida
+905=Normal
+907=Máxima
+909=Ultra
+
+101=Sólido
+100=No sólido
+
+102=Ninguno encontrado
+
+103=El archivo está siendo usado por otra aplicación.
+104=¡El fichero comprimido puede contener una firma digital!\nLa actualización destruirá la información de la firma.\n¿Quiere actualizar este fichero comprimido?
+
+1000=Configuración de 7Zip
+2000=Contraseña de 7Zip
+
+1001=Aceptar
+1002=Cancelar
+1108=Reutilizar esta contraseña
+1109=Encriptar cabeceras y nombres de ficheros
+1110=Mostrar contraseña en texto plano
+1111=Crear archivos sólidos (un flujo para todos los ficheros)
+1112=Compresión
+1113=Nivel de compresión:
+1114=Método de compresión:
+115=kNúmero de Pasos:
+1115=Tamaño de diccionario:
+1116=Tamaño de palabra:
+1117=Contraseña
+1118=Contraseña:
+1123=Número hilos de CPU:
+1124=Memoria usada para comprimir:
+1125=Memoria usada para descomprimir:
+1126=Tamaño bloque:
+
+1127=Atributos de fichero a almacenar
+1128=Tiempos del fichero
+1129=Creado
+1130=Accesado
+1131=Modificado
+
+1132=Atributos del fichero
+1133=Sólo lectura
+1134=Oculto
+1135=Sistema
+1136=Archivo
+
+2001=Aceptar
+2002=Cancelar
+2101=El archivo 7Zip está protegido
+2102=Por favor introduzca una contraseña para el archivo
+2118=Contraseña:
+
+2026=Fijar fecha de 7z para ficheros más nuevos
+2027=Reordenar lista de directorios
