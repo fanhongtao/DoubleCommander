@@ -4,5 +4,10 @@
 doc/
 language/
 pixmaps/
-*.txt
 multiarc.ini.bak
+cmdhistory.txt
+dirhistory.txt
+maskhistory.txt
+replacehistory.txt
+searchhistory.txt
+
