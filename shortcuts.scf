@@ -418,3 +418,9 @@ Command0=cm_EditPath
 Param0=
 Object0=FrmMain
 Form0=FrmMain
+
+[Ctrl+G]
+Command0=cm_Int_RunCommandFromBarFile
+Param0=Ctrl+G
+Object0=FrmMain
+Form0=FrmMain
